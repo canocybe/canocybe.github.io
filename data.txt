@@ -1,0 +1,25 @@
+{
+  "commands": {
+    "buka fortopolio": "https://github.com/devrzk/personal-website",
+    "buka dokumentasi": "https://developer.mozilla.org/",
+    "buka github": "https://github.com/",
+    "buka react docs": "https://react.dev/",
+    "buka nextjs docs": "https://nextjs.org/docs",
+    "buka laravel docs": "https://laravel.com/docs",
+    "buka django docs": "https://docs.djangoproject.com/",
+    "buka vercel": "https://vercel.com/",
+    "buka netlify": "https://www.netlify.com/"
+  },
+  "responses": {
+    "halo": "Halo juga bro! 👋 Senang bisa ngobrol tentang coding.",
+    "terima kasih": "Sama-sama! Semoga project GitHub-mu lancar 🚀",
+    "apa itu github": "GitHub adalah platform untuk menyimpan, mengelola, dan berkolaborasi dalam kode dengan Git.",
+    "bagaimana cara deploy website": "Gunakan GitHub Pages untuk project statis, atau Vercel/Netlify untuk project modern seperti React/Next.js.",
+    "tips belajar programming": "Mulai dari fundamental, buat project kecil, gunakan GitHub untuk dokumentasi, dan ikut komunitas developer.",
+    "framework web populer": "React, Next.js, Vue.js, Laravel, dan Django adalah framework populer saat ini.",
+    "apa itu react": "React adalah library JavaScript untuk membangun UI interaktif, dikembangkan oleh Meta.",
+    "apa itu nextjs": "Next.js adalah framework React untuk SSR, SSG, dan fullstack development.",
+    "apa itu laravel": "Laravel adalah framework PHP yang memudahkan pengembangan web dengan sintaks elegan.",
+    "apa itu django": "Django adalah framework Python yang cepat untuk prototyping dan scalable untuk aplikasi besar."
+  }
+}
